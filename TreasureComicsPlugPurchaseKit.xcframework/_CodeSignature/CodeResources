@@ -30,15 +30,15 @@
 		</data>
 		<key>ios-arm64/TreasureComicsPlugPurchaseKit.framework/TreasureComics.xcconfig</key>
 		<data>
-		Hp+YVfeHcKUWjoSOiLJznJiIORo=
+		7mfjPKreSTfvghlWy+3CX+Q5nNs=
 		</data>
 		<key>ios-arm64/TreasureComicsPlugPurchaseKit.framework/TreasureComicsPlugPurchaseKit</key>
 		<data>
-		NoFXpyrmmwz84iTYTqqBqM4Lob8=
+		Jf930kmCktWvP4fL2m2a2xDb6fA=
 		</data>
 		<key>ios-arm64/TreasureComicsPlugPurchaseKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		XeX5Ovfc4hKabblC/XoC6wq5ysQ=
+		2/cm6s1ciqYvQXrG8evKuwPDcPM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/Info.plist</key>
 		<data>
@@ -82,15 +82,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/TreasureComics.xcconfig</key>
 		<data>
-		Hp+YVfeHcKUWjoSOiLJznJiIORo=
+		7mfjPKreSTfvghlWy+3CX+Q5nNs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/TreasureComicsPlugPurchaseKit</key>
 		<data>
-		6dRMRY1MXwtouSXbKNTdQ3t4SC0=
+		mFb5lDASmUligMYKEUxHZLb34UM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		UldsxufGqzchZjqa9CDoW5KjVf4=
+		TbhltalL++KVnZOkFc5/1QTYibM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -165,33 +165,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hp+YVfeHcKUWjoSOiLJznJiIORo=
+			7mfjPKreSTfvghlWy+3CX+Q5nNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bEa467Wh03/BoNB0JGgvqDNzM74tzRBEoaYhCIN/Gdg=
+			wpiJfJrnJ2GbnUnz/u8kefbWBg1eZ4q5+eNRlc9yR4c=
 			</data>
 		</dict>
 		<key>ios-arm64/TreasureComicsPlugPurchaseKit.framework/TreasureComicsPlugPurchaseKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NoFXpyrmmwz84iTYTqqBqM4Lob8=
+			Jf930kmCktWvP4fL2m2a2xDb6fA=
 			</data>
 			<key>hash2</key>
 			<data>
-			+MHw6cTNZKnatiugoK8k2LBXJi3qtBWhbc31pwTY5io=
+			2RKpfgGgrc5LOnBXIY1y4CpNCpO2FYGe5cqiTvi1xZY=
 			</data>
 		</dict>
 		<key>ios-arm64/TreasureComicsPlugPurchaseKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XeX5Ovfc4hKabblC/XoC6wq5ysQ=
+			2/cm6s1ciqYvQXrG8evKuwPDcPM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9GzQtAK4c10wEBvZMlqh5+FYGdh18C5MCyJCfkjhYsY=
+			bk9Xiv0seTtsV4S1sPZEwRO1yv/BNhzpJySdLlGaQxg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/Info.plist</key>
@@ -308,33 +308,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hp+YVfeHcKUWjoSOiLJznJiIORo=
+			7mfjPKreSTfvghlWy+3CX+Q5nNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bEa467Wh03/BoNB0JGgvqDNzM74tzRBEoaYhCIN/Gdg=
+			wpiJfJrnJ2GbnUnz/u8kefbWBg1eZ4q5+eNRlc9yR4c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/TreasureComicsPlugPurchaseKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6dRMRY1MXwtouSXbKNTdQ3t4SC0=
+			mFb5lDASmUligMYKEUxHZLb34UM=
 			</data>
 			<key>hash2</key>
 			<data>
-			GMzqXpZx0QKfKWKlQSYtC2VFuK6YVPoi/vrbSwKVtoY=
+			x+qakoltSp0y/1GylvxadUwNRbI0vbEKrN0qdD+hiPA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureComicsPlugPurchaseKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UldsxufGqzchZjqa9CDoW5KjVf4=
+			TbhltalL++KVnZOkFc5/1QTYibM=
 			</data>
 			<key>hash2</key>
 			<data>
-			k7FJE4Ox8MwyFaaQOqYN4kO/qmdx8aseYMUl+6O/ro0=
+			kXKP2a1i9wbl9TeloU2Yo2/T/L7Gzwpw5BZxukUGQ+g=
 			</data>
 		</dict>
 	</dict>
